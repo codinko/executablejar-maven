@@ -11,4 +11,4 @@ This jar has other dependencies [Spring libraries]. So we tell the main executab
 
 Maven helps to package the libraries, create the executable jar.
 
-The heart of this project deals with pom.xml definitions , in  <build><plugins> . 
+The heart of this project deals with pom.xml definitions , in  build plugins  
